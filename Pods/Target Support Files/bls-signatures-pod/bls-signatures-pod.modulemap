@@ -1,0 +1,6 @@
+framework module bls_signatures_pod {
+  umbrella header "bls-signatures-pod-umbrella.h"
+
+  export *
+  module * { export * }
+}

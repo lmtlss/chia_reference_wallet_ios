@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (5.6.2)
+  - BigInt (5.2.0)
+  - bls-signatures-pod (1.0.7)
+  - KeychainSwift (16.0.1)
+  - Kingfisher (7.4.0)
+  - PinCodeTextField (0.1.0)
+  - PromisesObjC (2.1.1)
+  - PromisesSwift (2.1.1):
+    - PromisesObjC (= 2.1.1)
+  - SDWebImage (5.13.4):
+    - SDWebImage/Core (= 5.13.4)
+  - SDWebImage/Core (5.13.4)
+  - SQLite.swift (0.13.3):
+    - SQLite.swift/standard (= 0.13.3)
+  - SQLite.swift/standard (0.13.3)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BigInt
+  - bls-signatures-pod
+  - KeychainSwift (~> 16.0)
+  - Kingfisher (~> 7.0)
+  - PinCodeTextField
+  - PromisesSwift
+  - SDWebImage
+  - SQLite.swift (~> 0.13.3)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BigInt
+    - bls-signatures-pod
+    - KeychainSwift
+    - Kingfisher
+    - PinCodeTextField
+    - PromisesObjC
+    - PromisesSwift
+    - SDWebImage
+    - SQLite.swift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  BigInt: f668a80089607f521586bbe29513d708491ef2f7
+  bls-signatures-pod: 2fb002bda90163678c294bc2aa8a1049cba9ead7
+  KeychainSwift: 4209611373ca4a098e09b1e547eebd87c544dcc4
+  Kingfisher: 596b207973051aae5e4c54a1c1cb39837ea10d36
+  PinCodeTextField: a3c39be58bde3ed1d6888d0fb1d88b0a4a2277cc
+  PromisesObjC: ab77feca74fa2823e7af4249b8326368e61014cb
+  PromisesSwift: 99fddfe4a0ec88a56486644c0da106694c92a604
+  SDWebImage: e5cc87bf736e60f49592f307bdf9e157189298a3
+  SQLite.swift: 903bfa3bc9ab06345fdfbb578e34f47cfcf417da
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 6b392a39e693d6079e6152fb8003cf7aa0eae46b
+
+COCOAPODS: 1.11.3
